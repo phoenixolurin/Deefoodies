@@ -1,0 +1,51 @@
+```css
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fff0f5;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  }
+
+.menu {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  background-color: #fff;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2em;
+  margin-bottom: 5px;
+  color: #ff69b4;
+}
+
+header .contact {
+  font-size: 0.9em;
+  color: #555;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: #e91e63;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  padding: 5px 0;
+  border-bottom: 1px dotted #ccc;
+}
+```
